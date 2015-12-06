@@ -16,9 +16,7 @@ You may need to include some common sense and world knowledge to solve this puzz
 
 ## How to run the project
 
-    ```bash
     ['robbery.pl'].
     is_guilty(a). 
     is_guilty(b).
     is_guilty(c).
-    ```
